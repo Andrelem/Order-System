@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Microserivce")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cd087dd1675b6cc7f089955e07d6deac5e0a098")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d073362e752d5b1e5e7c204f07aac54af36bfdb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Microserivce")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Microserivce")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

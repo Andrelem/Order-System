@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projeto git\\Order-System\\Microservice\\Microserivce\\Microserivce.csproj",
+      "projectUniqueName": "D:\\Projeto git\\Order-System\\Order-System\\Microservice\\Microserivce\\Microserivce.csproj",
       "projectName": "Microserivce",
-      "projectPath": "D:\\Projeto git\\Order-System\\Microservice\\Microserivce\\Microserivce.csproj",
+      "projectPath": "D:\\Projeto git\\Order-System\\Order-System\\Microservice\\Microserivce\\Microserivce.csproj",
       "packagesPath": "C:\\Users\\Ahenri\\.nuget\\packages\\",
-      "outputPath": "D:\\Projeto git\\Order-System\\Microservice\\Microserivce\\obj\\",
+      "outputPath": "D:\\Projeto git\\Order-System\\Order-System\\Microservice\\Microserivce\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
